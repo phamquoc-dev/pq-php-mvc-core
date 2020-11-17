@@ -96,7 +96,7 @@ class Application
 
 	public function on($eventName, $callback)
 	{
-		$this->eventManagers[$eventName] = $callback;
+		$this->eventManagers[$eventName][] = $callback;
 	}
 
 
