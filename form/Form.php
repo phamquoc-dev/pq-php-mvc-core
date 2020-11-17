@@ -1,9 +1,9 @@
 <?php
 
 
-namespace app\core\form;
+namespace quocpp\phpmvc\form;
 
-use app\core\Model;
+use quocpp\phpmvc\Model;
 
 class Form
 {

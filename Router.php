@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace quocpp\phpmvc;
 
-use app\core\exception\ForbiddenException;
-use app\core\exception\NotFoundException;
+use quocpp\phpmvc\exception\ForbiddenException;
+use quocpp\phpmvc\exception\NotFoundException;
 
 class Router
 {

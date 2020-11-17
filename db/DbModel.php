@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\db;
+namespace quocpp\phpmvc\db;
 
 
-use app\core\Application;
-use app\core\Model;
+use quocpp\phpmvc\Application;
+use quocpp\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

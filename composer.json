@@ -1,4 +1,15 @@
 {
     "name": "quocpp/php-mvc-core",
-    "require": {}
+    "authors": [
+        {
+            "name": "Quoc Pham",
+            "email": "phamquoc.dev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "quocpp\\phpmvc\\": "./"
+        }
+    }
 }

@@ -1,5 +1,5 @@
 <?php
-namespace app\core\form;
+namespace quocpp\phpmvc\form;
 
 class InputField extends BaseField
 {

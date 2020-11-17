@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace quocpp\phpmvc;
 
 
-use app\core\db\DbModel;
+use quocpp\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

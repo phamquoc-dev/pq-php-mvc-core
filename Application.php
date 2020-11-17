@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace quocpp\phpmvc;
 
-use app\core\db\Database;
+use quocpp\phpmvc\db\Database;
 
 class Application
 {

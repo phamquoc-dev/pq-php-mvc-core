@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace quocpp\phpmvc;
 
 
-use app\core\middlewares\BaseMiddleware;
+use quocpp\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

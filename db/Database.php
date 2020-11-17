@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace quocpp\phpmvc\db;
 
 
-use app\core\Application;
+use quocpp\phpmvc\Application;
 
 class Database
 {
